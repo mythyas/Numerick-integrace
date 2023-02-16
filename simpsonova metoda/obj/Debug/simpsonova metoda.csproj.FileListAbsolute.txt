@@ -1,0 +1,7 @@
+C:\Users\xott\source\repos\simpsonova metoda\simpsonova metoda\bin\Debug\simpsonova metoda.exe.config
+C:\Users\xott\source\repos\simpsonova metoda\simpsonova metoda\bin\Debug\simpsonova metoda.exe
+C:\Users\xott\source\repos\simpsonova metoda\simpsonova metoda\bin\Debug\simpsonova metoda.pdb
+C:\Users\xott\source\repos\simpsonova metoda\simpsonova metoda\obj\Debug\simpsonova metoda.csproj.AssemblyReference.cache
+C:\Users\xott\source\repos\simpsonova metoda\simpsonova metoda\obj\Debug\simpsonova metoda.csproj.CoreCompileInputs.cache
+C:\Users\xott\source\repos\simpsonova metoda\simpsonova metoda\obj\Debug\simpsonova metoda.exe
+C:\Users\xott\source\repos\simpsonova metoda\simpsonova metoda\obj\Debug\simpsonova metoda.pdb
